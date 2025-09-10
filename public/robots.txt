@@ -12,3 +12,15 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+# Sitemap
+Sitemap: https://your-domain.com/sitemap.xml
+
+# Specific crawl instructions for better indexing
+Crawl-delay: 1
+
+# Allow important pages
+Allow: /about
+Allow: /contact
+Allow: /privacy
+Allow: /terms
