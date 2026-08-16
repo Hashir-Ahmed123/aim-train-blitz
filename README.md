@@ -47,4 +47,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## Try For Ur Self
+
+aim-trainer-blitz.netlify.app
 
