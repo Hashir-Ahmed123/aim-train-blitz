@@ -49,5 +49,5 @@ This project is built with:
 
 ## Try For Ur Self
 
-aim-trainer-blitz.netlify.app
-
+[aim-trainer-blitz.netlify.app
+](https://aim-trainer-blitz.netlify.app/)
